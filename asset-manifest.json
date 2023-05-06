@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react.order/static/css/main.9f3902f2.css",
+    "main.js": "/react.order/static/js/main.5b521d3f.js",
+    "static/media/sushi1.webp": "/react.order/static/media/sushi1.2aca945a6bca36123e5b.webp",
+    "static/media/sushi3.jpg": "/react.order/static/media/sushi3.ec88443a8ee54dae7462.jpg",
+    "index.html": "/react.order/index.html",
+    "main.9f3902f2.css.map": "/react.order/static/css/main.9f3902f2.css.map",
+    "main.5b521d3f.js.map": "/react.order/static/js/main.5b521d3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f3902f2.css",
+    "static/js/main.5b521d3f.js"
+  ]
+}
